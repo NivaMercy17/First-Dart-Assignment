@@ -1,0 +1,21 @@
+void main() {
+  // Demonstrating int data type
+  int age = 23; // Represents an integer value
+  print('Age: $age');
+
+  // Demonstrating double data type
+  double height = 5.9; // Represents a floating-point value
+  print('Height: $height');
+
+  // Demonstrating String data type
+  String name = 'Mercy Niva'; // Represents a sequence of characters
+  print('Name: $name');
+
+  // Demonstrating List data type
+  List<String> fruits = ['Mango', 'Pineapple', 'Melon']; // Represents a collection of elements of the same type
+  print('Fruits: $fruits');
+
+  // Demonstrating Map data type
+  Map<String, int> scores = {'Math': 90, 'Science': 85, 'History': 88}; // Represents a collection of key-value pairs
+  print('Scores: $scores');
+}
